@@ -1,2 +1,1 @@
-# agb7
-class 32
+# AngryBirdsStage7
